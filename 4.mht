@@ -1,6 +1,960 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?mso-application progid="Word.Document"?>
-<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" w:macrosPresent="no" w:embeddedObjPresent="no" w:ocxPresent="no" xml:space="preserve"><o:DocumentProperties><o:Title>Минимальные действия для запуска админки</o:Title><o:Author>user</o:Author><o:LastAuthor>user</o:LastAuthor><o:Revision>2</o:Revision><o:TotalTime>0</o:TotalTime><o:Created>2017-12-15T18:46:00Z</o:Created><o:LastSaved>2017-12-15T18:46:00Z</o:LastSaved><o:Pages>1</o:Pages><o:Words>811</o:Words><o:Characters>4625</o:Characters><o:Lines>38</o:Lines><o:Paragraphs>10</o:Paragraphs><o:CharactersWithSpaces>5426</o:CharactersWithSpaces><o:Version>11.5604</o:Version></o:DocumentProperties><w:fonts><w:defaultFonts w:ascii="Times New Roman" w:fareast="Times New Roman" w:h-ansi="Times New Roman" w:cs="Times New Roman"/></w:fonts><w:styles><w:versionOfBuiltInStylenames w:val="4"/><w:latentStyles w:defLockedState="off" w:latentStyleCount="156"/><w:style w:type="paragraph" w:default="on" w:styleId="Normal"><w:name w:val="Normal"/><w:rPr><wx:font wx:val="Times New Roman"/><w:sz w:val="24"/><w:sz-cs w:val="24"/><w:lang w:val="RU" w:fareast="RU" w:bidi="AR-SA"/></w:rPr></w:style><w:style w:type="character" w:default="on" w:styleId="DefaultParagraphFont"><w:name w:val="Default Paragraph Font"/><w:semiHidden/></w:style><w:style w:type="table" w:default="on" w:styleId="TableNormal"><w:name w:val="Normal Table"/><wx:uiName wx:val="Table Normal"/><w:semiHidden/><w:rPr><wx:font wx:val="Times New Roman"/></w:rPr><w:tblPr><w:tblInd w:w="0" w:type="dxa"/><w:tblCellMar><w:top w:w="0" w:type="dxa"/><w:left w:w="108" w:type="dxa"/><w:bottom w:w="0" w:type="dxa"/><w:right w:w="108" w:type="dxa"/></w:tblCellMar></w:tblPr></w:style><w:style w:type="list" w:default="on" w:styleId="NoList"><w:name w:val="No List"/><w:semiHidden/></w:style><w:style w:type="paragraph" w:styleId="NormalWeb"><w:name w:val="Normal (Web)"/><w:basedOn w:val="Normal"/><w:rsid w:val="001F287D"/><w:pPr><w:pStyle w:val="NormalWeb"/><w:spacing w:before="100" w:before-autospacing="on" w:after="100" w:after-autospacing="on"/></w:pPr><w:rPr><wx:font wx:val="Times New Roman"/></w:rPr></w:style><w:style w:type="character" w:styleId="Strong"><w:name w:val="Strong"/><w:basedOn w:val="DefaultParagraphFont"/><w:rsid w:val="001F287D"/><w:rPr><w:b/><w:b-cs/></w:rPr></w:style></w:styles><w:divs><w:div w:id="2091392968"><w:bodyDiv w:val="on"/><w:marLeft w:val="0"/><w:marRight w:val="0"/><w:marTop w:val="0"/><w:marBottom w:val="0"/><w:divBdr><w:top w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/><w:left w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/><w:bottom w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/><w:right w:val="none" w:sz="0" wx:bdrwidth="0" w:space="0" w:color="auto"/></w:divBdr></w:div></w:divs><w:docPr><w:view w:val="print"/><w:zoom w:percent="190"/><w:doNotEmbedSystemFonts/><w:attachedTemplate w:val=""/><w:defaultTabStop w:val="708"/><w:punctuationKerning/><w:characterSpacingControl w:val="DontCompress"/><w:optimizeForBrowser/><w:validateAgainstSchema/><w:saveInvalidXML w:val="off"/><w:ignoreMixedContent w:val="off"/><w:alwaysShowPlaceholderText w:val="off"/><w:compat><w:breakWrappedTables/><w:snapToGridInCell/><w:wrapTextWithPunct/><w:useAsianBreakRules/><w:dontGrowAutofit/></w:compat></w:docPr><w:body><wx:sect><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Минимальные действия для запуска админки</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/></w:rPr><w:t>в C:\django_code\first\first\settings.py</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>в разделе </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>INSTALLED_APPS</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> раскометнтировать '</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>django.contrib.admin</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>',</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Когда </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Django</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> загружает </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>URLconf</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> от</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> urls.py </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>при запуске сервера, он выполняет </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>admin.autodiscover (), </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>эта функция перебирает установки </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>INSTALLED_APPS</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> и ищет файл с именем </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>admin.py</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> на каждом из установленных приложений. </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>Если </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>admin.py</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t> существует в данном приложении, он выполняет код в этом файле.</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\first\urls.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.conf.urls import patterns, include, url</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.autodiscover()</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>urlpatterns = patterns('',</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    url(r'^firstapp/', include( 'firstapp.urls' ) ),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    url(r'^admin/', include(admin.site.urls)),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>)</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>теперь</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>зарегистрируем</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>наши</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>модели</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\admin.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from firstapp.models import dept, workers</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.site.register(dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.site.register(workers)</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Теперь</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>добавим</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>удобства</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\admin.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>1 </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>добавим</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>заголовок</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from firstapp.models import dept, workers</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>#</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.AdminSite.site_header = '</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>'</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.site.register(dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.site.register(workers)  </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>2 после добавления записей, мы видим неудобнуое отображение в списке добавленных записей,</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:pict><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"><v:stroke joinstyle="miter"/><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"/><v:f eqn="sum @0 1 0"/><v:f eqn="sum 0 0 @1"/><v:f eqn="prod @2 1 2"/><v:f eqn="prod @3 21600 pixelWidth"/><v:f eqn="prod @3 21600 pixelHeight"/><v:f eqn="sum @0 0 1"/><v:f eqn="prod @6 1 2"/><v:f eqn="prod @7 21600 pixelWidth"/><v:f eqn="sum @8 21600 0"/><v:f eqn="prod @7 21600 pixelHeight"/><v:f eqn="sum @10 21600 0"/></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/><o:lock v:ext="edit" aspectratio="t"/></v:shapetype><w:binData w:name="wordml://02000001.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D375EE.89CB1390"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Microsoft Internet Explorer.
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"4_files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"4_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>&#1052;&#1080;&#1085;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#109=
+9;&#1077;
+&#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1103; &#1076;&#1083;&#11=
+03;
+&#1079;&#1072;&#1087;&#1091;&#1089;&#1082;&#1072;
+&#1072;&#1076;&#1084;&#1080;&#1085;&#1082;&#1080;</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>user</o:Author>
+  <o:LastAuthor>user</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>4</o:TotalTime>
+  <o:Created>2017-12-15T18:49:00Z</o:Created>
+  <o:LastSaved>2017-12-15T18:49:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>811</o:Words>
+  <o:Characters>4625</o:Characters>
+  <o:Lines>38</o:Lines>
+  <o:Paragraphs>10</o:Paragraphs>
+  <o:CharactersWithSpaces>5426</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+p
+	{mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:72.0pt 90.0pt 72.0pt 90.0pt;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+</head>
+
+<body lang=3DRU style=3D'tab-interval:35.4pt'>
+
+<div class=3DSection1>
+
+<p><strong><span style=3D'font-size:7.0pt;color:black'>&#1052;&#1080;&#1085=
+;&#1080;&#1084;&#1072;&#1083;&#1100;&#1085;&#1099;&#1077;
+&#1076;&#1077;&#1081;&#1089;&#1090;&#1074;&#1080;&#1103; &#1076;&#1083;&#11=
+03;
+&#1079;&#1072;&#1087;&#1091;&#1089;&#1082;&#1072;
+&#1072;&#1076;&#1084;&#1080;&#1085;&#1082;&#1080;</span></strong><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><span style=3D'font-size:7.0pt;color:black;background:lavender'>&#1074;
+C:\django_code\first\first\settings.py</span><span style=3D'font-size:7.0pt;
+color:black'><br>
+&#1074; &#1088;&#1072;&#1079;&#1076;&#1077;&#1083;&#1077;&nbsp;<strong>INST=
+ALLED_APPS</strong>&nbsp;&#1088;&#1072;&#1089;&#1082;&#1086;&#1084;&#1077;&=
+#1090;&#1085;&#1090;&#1080;&#1088;&#1086;&#1074;&#1072;&#1090;&#1100;
+'<strong>django.contrib.admin</strong>',</span><span style=3D'font-size:7.5=
+pt;
+color:black'><o:p></o:p></span></p>
+
+<p><span style=3D'font-size:7.5pt;color:black'>&nbsp;<o:p></o:p></span></p>
+
+<p><span style=3D'font-size:7.0pt;color:black'>&#1050;&#1086;&#1075;&#1076;=
+&#1072;&nbsp;<strong>Django</strong>&nbsp;&#1079;&#1072;&#1075;&#1088;&#109=
+1;&#1078;&#1072;&#1077;&#1090;&nbsp;<strong>URLconf</strong>&nbsp;&#1086;&#=
+1090;<strong>&nbsp;urls.py&nbsp;</strong>&#1087;&#1088;&#1080;
+&#1079;&#1072;&#1087;&#1091;&#1089;&#1082;&#1077;
+&#1089;&#1077;&#1088;&#1074;&#1077;&#1088;&#1072;, &#1086;&#1085;
+&#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1103;&#1077;&#1090;&nbsp;<stron=
+g>admin.autodiscover
+(),&nbsp;</strong><br>
+&#1101;&#1090;&#1072; &#1092;&#1091;&#1085;&#1082;&#1094;&#1080;&#1103;
+&#1087;&#1077;&#1088;&#1077;&#1073;&#1080;&#1088;&#1072;&#1077;&#1090;
+&#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1082;&#1080;&nbsp;<stron=
+g>INSTALLED_APPS</strong>&nbsp;&#1080;
+&#1080;&#1097;&#1077;&#1090; &#1092;&#1072;&#1081;&#1083; &#1089;
+&#1080;&#1084;&#1077;&#1085;&#1077;&#1084;&nbsp;<strong>admin.py</strong>&n=
+bsp;&#1085;&#1072;
+&#1082;&#1072;&#1078;&#1076;&#1086;&#1084; &#1080;&#1079;
+&#1091;&#1089;&#1090;&#1072;&#1085;&#1086;&#1074;&#1083;&#1077;&#1085;&#108=
+5;&#1099;&#1093;
+&#1087;&#1088;&#1080;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1081;.&nbs=
+p;<br>
+&#1045;&#1089;&#1083;&#1080;&nbsp;<strong>admin.py</strong>&nbsp;&#1089;&#1=
+091;&#1097;&#1077;&#1089;&#1090;&#1074;&#1091;&#1077;&#1090;
+&#1074; &#1076;&#1072;&#1085;&#1085;&#1086;&#1084;
+&#1087;&#1088;&#1080;&#1083;&#1086;&#1078;&#1077;&#1085;&#1080;&#1080;,
+&#1086;&#1085; &#1074;&#1099;&#1087;&#1086;&#1083;&#1085;&#1103;&#1077;&#10=
+90;
+&#1082;&#1086;&#1076; &#1074; &#1101;&#1090;&#1086;&#1084;
+&#1092;&#1072;&#1081;&#1083;&#1077;.</span><span style=3D'font-size:7.5pt;
+color:black'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\first\urls.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+django.conf.urls import patterns, include, url</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+django.contrib import admin</span><span lang=3DEN-US style=3D'font-size:7.5=
+pt;
+color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>admin.autodiscover()</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>urlpatterns
+=3D patterns('',<br>
+&nbsp; &nbsp; url(r'^firstapp/', include( 'firstapp.urls' ) ),<br>
+&nbsp; &nbsp; url(r'^admin/', include(admin.site.urls)),<br>
+)</span><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-la=
+nguage:
+EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'>&nbsp;<o:p></o:p></span></p>
+
+<p><strong><span style=3D'font-size:7.0pt;color:black'>&#1090;&#1077;&#1087=
+;&#1077;&#1088;&#1100;</span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1079;&#1072;&#1088;&#1077;&#1075;&#=
+1080;&#1089;&#1090;&#1088;&#1080;&#1088;&#1091;&#1077;&#1084;</span></stron=
+g><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1085;&#1072;&#1096;&#1080;</span></=
+strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1084;&#1086;&#1076;&#1077;&#1083;&#=
+1080;</span></strong><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\admin.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+django.contrib import admin</span><span lang=3DEN-US style=3D'font-size:7.5=
+pt;
+color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+firstapp.models import dept, workers</span><span lang=3DEN-US style=3D'font=
+-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>admin.site.register(dept)<br>
+admin.site.register(workers)</span><span lang=3DEN-US style=3D'font-size:7.=
+5pt;
+color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'>&nbsp;<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><strong><span style=3D'font-size:7.0pt;color:black'>&#1058;&#1077;&#=
+1087;&#1077;&#1088;&#1100;</span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1076;&#1086;&#1073;&#1072;&#1074;&#=
+1080;&#1084;</span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1091;&#1076;&#1086;&#1073;&#1089;&#=
+1090;&#1074;&#1072;</span></strong><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\admin.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><strong><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi=
+-language:
+EN-US'>1 </span></strong><strong><span style=3D'font-size:7.0pt;color:black=
+'>&#1076;&#1086;&#1073;&#1072;&#1074;&#1080;&#1084;</span></strong><strong>=
+<span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1079;&#1072;&#1075;&#1086;&#1083;&#=
+1086;&#1074;&#1086;&#1082;</span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span></strong><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>from django.contrib import admin</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+firstapp.models import dept, workers</span><span lang=3DEN-US style=3D'font=
+-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>#</span><span
+style=3D'font-size:7.0pt;color:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#=
+1086;&#1074;&#1086;&#1082;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+<br>
+admin.AdminSite.site_header =3D '</span><span style=3D'font-size:7.0pt;colo=
+r:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082;</s=
+pan><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+'</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>admin.site.register(dept)<br>
+admin.site.register(workers) &nbsp;</span><span lang=3DEN-US style=3D'font-=
+size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'>&nbsp;<o:p></o:p></span></p>
+
+<p><strong><span style=3D'font-size:7.0pt;color:black'>2
+&#1087;&#1086;&#1089;&#1083;&#1077;
+&#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103;
+&#1079;&#1072;&#1087;&#1080;&#1089;&#1077;&#1081;, &#1084;&#1099;
+&#1074;&#1080;&#1076;&#1080;&#1084; &#1085;&#1077;&#1091;&#1076;&#1086;&#10=
+73;&#1085;&#1091;&#1086;&#1077;
+&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#107=
+7;
+&#1074; &#1089;&#1087;&#1080;&#1089;&#1082;&#1077;
+&#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1085;&#1099;&#109=
+3;
+&#1079;&#1072;&#1087;&#1080;&#1089;&#1077;&#1081;,</span></strong><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><span style=3D'font-size:7.0pt;color:black'><!--[if gte vml 1]><v:shapet=
+ype
+ id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelative=
+=3D"t"
+ path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" stroked=3D"f">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:formulas>
+  <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn=3D"sum @0 1 0"/>
+  <v:f eqn=3D"sum 0 0 @1"/>
+  <v:f eqn=3D"prod @2 1 2"/>
+  <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+  <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @0 0 1"/>
+  <v:f eqn=3D"prod @6 1 2"/>
+  <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+  <v:f eqn=3D"sum @8 21600 0"/>
+  <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+ <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+</v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" alt=3D"" st=
+yle=3D'width:269.25pt;
+ height:143.25pt'>
+ <v:imagedata src=3D"4_files/image001.jpg" o:href=3D"http://snakeproject.ru=
+/rubric/files/django_my_4/1.jpg"/>
+</v:shape><![endif]--><![if !vml]><img width=3D359 height=3D191
+src=3D"4_files/image001.jpg" v:shapes=3D"_x0000_i1025"><![endif]></span><sp=
+an
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><strong><span style=3D'font-size:7.0pt;color:black'>&#1074;&#1099;&#1074=
+;&#1077;&#1076;&#1077;&#1084;
+&#1080;&#1093; &#1074;
+&quot;&#1095;&#1077;&#1083;&#1086;&#1074;&#1077;&#1095;&#1077;&#1089;&#1082=
+;&#1086;&#1084;
+&#1074;&#1080;&#1076;&#1077;&quot;</span></strong><span style=3D'font-size:=
+7.5pt;
+color:black'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\models.py</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+<br>
+from django.db import models</span><span lang=3DEN-US style=3D'font-size:7.=
+5pt;
+color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>class
+dept ( models.Model ):<br>
+&nbsp; &nbsp; def __str__(self):<br>
+&nbsp; &nbsp; &nbsp; &nbsp; return self.name<br>
+&nbsp; &nbsp; name &nbsp; &nbsp; &nbsp; =3D models.CharField(max_length=3D1=
+5)<br>
+&nbsp; &nbsp;&nbsp;</span><span lang=3DEN-US style=3D'font-size:7.5pt;color=
+:black;
+mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>class
+workers ( models.Model ):<br>
+&nbsp; &nbsp; def __str__(self):<br>
+&nbsp; &nbsp; &nbsp; &nbsp; return self.name<br>
+&nbsp; &nbsp; dept &nbsp; &nbsp; &nbsp; =3D models.ForeignKey(dept)<br>
+&nbsp; &nbsp; name &nbsp; &nbsp; &nbsp; =3D models.TextField()<br>
+&nbsp; &nbsp; birthday &nbsp; =3D models.DateTimeField()<br>
+&nbsp; &nbsp; boss &nbsp; &nbsp; &nbsp; =3D models.CharField(max_length=3D1=
+2)<br>
+&nbsp; &nbsp;&nbsp;<br>
+&nbsp; &nbsp;&nbsp;<br>
+&nbsp; &nbsp;&nbsp;<br>
+<strong>3 </strong></span><strong><span style=3D'font-size:7.0pt;color:blac=
+k'>&#1080;&#1079;&#1084;&#1077;&#1085;&#1077;&#1085;&#1080;&#1077;</span></=
+strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1088;&#1103;&#1076;&#=
+1082;&#1072;</span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1083;&#1077;&#1081;</=
+span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1080;</span></strong><strong><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span></str=
+ong><strong><span
+style=3D'font-size:7.0pt;color:black'>&#1089;&#1082;&#1088;&#1099;&#1090;&#=
+1080;&#1077;</span></strong><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><b><span style=3D'font-size:7.0pt;color:black'><!--[if gte vml 1]><v:sha=
+pe
+ id=3D"_x0000_i1026" type=3D"#_x0000_t75" alt=3D"" style=3D'width:193.5pt;h=
+eight:97.5pt'>
+ <v:imagedata src=3D"4_files/image002.jpg" o:href=3D"http://snakeproject.ru=
+/rubric/files/django_my_4/2.jpg"/>
+</v:shape><![endif]--><![if !vml]><img width=3D258 height=3D130
+src=3D"4_files/image002.jpg" v:shapes=3D"_x0000_i1026"><![endif]></span></b=
+><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\admin.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+django.contrib import admin</span><span lang=3DEN-US style=3D'font-size:7.5=
+pt;
+color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+firstapp.models import dept, workers</span><span lang=3DEN-US style=3D'font=
+-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>#</span><span
+style=3D'font-size:7.0pt;color:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#=
+1086;&#1074;&#1086;&#1082;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+<br>
+admin.AdminSite.site_header =3D '</span><span style=3D'font-size:7.0pt;colo=
+r:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082;</s=
+pan><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+'</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>class WorkersAdmin(admin.ModelAdmin):<br>
+&nbsp; &nbsp; #fieldsets - </span><span style=3D'font-size:7.0pt;color:blac=
+k'>&#1085;&#1072;&#1079;&#1074;&#1072;&#1085;&#1080;&#1077;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1075;&#1088;&#1091;&#1087;&#1087;&#=
+1099;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1083;&#1077;&#1081;</=
+span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+.<br>
+&nbsp; &nbsp; </span><span style=3D'font-size:7.0pt;color:black'>#&#1042; f=
+ields
+&#1087;&#1077;&#1088;&#1077;&#1076;&#1072;&#1077;&#1084;
+&#1087;&#1086;&#1083;&#1103; &#1080;&#1079;
+&#1084;&#1086;&#1076;&#1077;&#1083;&#1080;.<br>
+&nbsp; &nbsp; #&#1042;&#1086; &#1074;&#1090;&#1086;&#1088;&#1086;&#1081;
+&#1089;&#1090;&#1088;&#1086;&#1082;&#1077; &#1082;&#1083;&#1072;&#1089;&#10=
+89;
+&quot;collapse&quot;,
+&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1072;&#1077;&#1090; &#10=
+75;&#1088;&#1091;&#1087;&#1087;&#1091;
+&#1087;&#1086;&#1083;&#1077;&#1081;
+&#1080;&#1079;&#1085;&#1072;&#1095;&#1072;&#1083;&#1100;&#1085;&#1086;
+&#1089;&#1082;&#1088;&#1099;&#1090;&#1086;&#1081;.<br>
+&nbsp; &nbsp; fieldsets =3D [<br>
+&nbsp; &nbsp; &nbsp; &nbsp; (None, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; {'fields': ['dept']}),<br>
+&nbsp; &nbsp; &nbsp; &nbsp;
+('&#1048;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103;
+&#1086; &#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;&#1077;',
+{'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),<br>
+&nbsp; &nbsp; ]</span><span style=3D'font-size:7.5pt;color:black'><o:p></o:=
+p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>admin.site.register(dept)<br>
+#WorkersAdmin </span><span style=3D'font-size:7.0pt;color:black'>&#1087;&#1=
+077;&#1088;&#1077;&#1076;&#1072;&#1077;&#1090;&#1089;&#1103;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1082;&#1072;&#1082;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1085;&#1072;&#1089;&#1090;&#1088;&#=
+1086;&#1081;&#1082;&#1072;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1076;&#1083;&#1103;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1082;&#1083;&#1072;&#1089;&#1089;&#=
+1072;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+ workers<br>
+admin.site.register(workers, WorkersAdmin) &nbsp;</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'>&nbsp;<o:p></o:p></span></p>
+
+<p><strong><span style=3D'font-size:7.0pt;color:black'>4
+&#1054;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#107=
+7;
+&#1076;&#1086;&#1087;.&#1087;&#1086;&#1083;&#1077;&#1081; &#1074;
+&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#108=
+0;
+&#1089;&#1087;&#1080;&#1089;&#1082;&#1072;
+&#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;&#1086;&#1074;</spa=
+n></strong><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><b><span style=3D'font-size:7.0pt;color:black'><!--[if gte vml 1]><v:sha=
+pe
+ id=3D"_x0000_i1027" type=3D"#_x0000_t75" alt=3D"" style=3D'width:600.75pt;=
+height:193.5pt'>
+ <v:imagedata src=3D"4_files/image003.jpg" o:href=3D"http://snakeproject.ru=
+/rubric/files/django_my_4/3.jpg"/>
+</v:shape><![endif]--><![if !vml]><img width=3D801 height=3D258
+src=3D"4_files/image003.jpg" v:shapes=3D"_x0000_i1027"><![endif]></span></b=
+><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\admin.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>from django.contrib import admin</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+firstapp.models import dept, workers</span><span lang=3DEN-US style=3D'font=
+-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>#</span><span
+style=3D'font-size:7.0pt;color:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#=
+1086;&#1074;&#1086;&#1082;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+<br>
+admin.AdminSite.site_header =3D '</span><span style=3D'font-size:7.0pt;colo=
+r:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082;</s=
+pan><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+'</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>class WorkersAdmin(admin.ModelAdmin):<br>
+&nbsp; &nbsp; fieldsets =3D [<br>
+&nbsp; &nbsp; &nbsp; &nbsp; (None, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; {'fields': ['dept']}),<br>
+&nbsp; &nbsp; &nbsp; &nbsp; ('</span><span style=3D'font-size:7.0pt;color:b=
+lack'>&#1048;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103=
+;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1086;</span><span style=3D'font-siz=
+e:7.0pt;
+color:black;mso-ansi-language:EN-US'> </span><span style=3D'font-size:7.0pt;
+color:black'>&#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;&#1077=
+;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+',
+{'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),<br>
+&nbsp; &nbsp; ]<br>
+&nbsp; &nbsp; #</span><span style=3D'font-size:7.0pt;color:black'>&#1054;&#=
+1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#1077;</span>=
+<span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1076;&#1086;&#1087;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+.</span><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1083;&#1077;&#1081;</=
+span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1074;</span><span style=3D'font-siz=
+e:7.0pt;
+color:black;mso-ansi-language:EN-US'> </span><span style=3D'font-size:7.0pt;
+color:black'>&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085=
+;&#1080;&#1080;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1089;&#1087;&#1080;&#1089;&#1082;&#=
+1072;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1088;&#1072;&#1073;&#1086;&#1090;&#=
+1085;&#1080;&#1082;&#1086;&#1074;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+<br>
+&nbsp; &nbsp; #http://127.0.0.1:8000/admin/firstapp/workers/<br>
+&nbsp; &nbsp; list_display =3D ('name', 'dept', 'birthday')</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>admin.site.register(dept)<br>
+admin.site.register(workers, WorkersAdmin) &nbsp;</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'>&nbsp;<o:p></o:p></span></p>
+
+<p><span style=3D'font-size:7.5pt;color:black'><br>
+</span><strong><span style=3D'font-size:7.0pt;color:black'>5
+&#1044;&#1086;&#1073;&#1072;&#1074;&#1080;&#1084; &#1087;&#1086;&#1083;&#10=
+77;
+&#1087;&#1086;&#1080;&#1089;&#1082;&#1072;(&#1087;&#1086;&#1080;&#1089;&#10=
+82;
+&#1087;&#1086;
+&#1091;&#1082;&#1072;&#1079;&#1072;&#1085;&#1085;&#1086;&#1084;&#1091; &#10=
+87;&#1086;&#1083;&#1102;):</span></strong><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><b><span style=3D'font-size:7.0pt;color:black'><!--[if gte vml 1]><v:sha=
+pe
+ id=3D"_x0000_i1028" type=3D"#_x0000_t75" alt=3D"" style=3D'width:236.25pt;=
+height:45.75pt'>
+ <v:imagedata src=3D"4_files/image004.jpg" o:href=3D"http://snakeproject.ru=
+/rubric/files/django_my_4/4.jpg"/>
+</v:shape><![endif]--><![if !vml]><img width=3D315 height=3D61
+src=3D"4_files/image004.jpg" v:shapes=3D"_x0000_i1028"><![endif]></span></b=
+><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\admin.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+django.contrib import admin</span><span lang=3DEN-US style=3D'font-size:7.5=
+pt;
+color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+firstapp.models import dept, workers</span><span lang=3DEN-US style=3D'font=
+-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>#</span><span
+style=3D'font-size:7.0pt;color:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#=
+1086;&#1074;&#1086;&#1082;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+<br>
+admin.AdminSite.site_header =3D '</span><span style=3D'font-size:7.0pt;colo=
+r:black'>&#1047;&#1072;&#1075;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082;</s=
+pan><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+'</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>class WorkersAdmin(admin.ModelAdmin):<br>
+&nbsp; &nbsp; fieldsets =3D [<br>
+&nbsp; &nbsp; &nbsp; &nbsp; (None, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; {'fields': ['dept']}),<br>
+&nbsp; &nbsp; &nbsp; &nbsp; ('</span><span style=3D'font-size:7.0pt;color:b=
+lack'>&#1048;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103=
+;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1086;</span><span style=3D'font-siz=
+e:7.0pt;
+color:black;mso-ansi-language:EN-US'> </span><span style=3D'font-size:7.0pt;
+color:black'>&#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;&#1077=
+;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+',
+{'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),<br>
+&nbsp; &nbsp; ]<br>
+&nbsp; &nbsp; list_display =3D ('name', 'dept', 'birthday')<br>
+&nbsp; &nbsp; #</span><span style=3D'font-size:7.0pt;color:black'>&#1044;&#=
+1086;&#1073;&#1072;&#1074;&#1080;&#1084;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1083;&#1077;</span><s=
+pan
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1080;&#1089;&#1082;&#=
+1072;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+(</span><span
+style=3D'font-size:7.0pt;color:black'>&#1073;&#1091;&#1076;&#1077;&#1090;</=
+span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1080;&#1089;&#1082;&#1072;&#1090;&#=
+1100;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1091;&#1082;&#1072;&#1079;&#1072;&#=
+1085;&#1085;&#1086;&#1084;&#1091;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1087;&#1086;&#1083;&#1102;</span><s=
+pan
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+):<br>
+&nbsp; &nbsp; search_fields =3D ['name']</span><span lang=3DEN-US style=3D'=
+font-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>admin.site.register(dept)<br>
+admin.site.register(workers, WorkersAdmin) &nbsp;</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'>&nbsp;<o:p></o:p></span></p>
+
+<p><strong><span style=3D'font-size:7.0pt;color:black'>6
+&#1044;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103;
+&#1089;&#1074;&#1103;&#1079;&#1072;&#1085;&#1085;&#1099;&#1093;
+&#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1086;&#1074;&nbsp;</span></stro=
+ng><span
+style=3D'font-size:7.0pt;color:black'><br>
+<strong>&#1076;&#1086;&#1073;&#1072;&#1074;&#1080;&#1084;
+&#1074;&#1086;&#1079;&#1084;&#1086;&#1078;&#1085;&#1086;&#1089;&#1090;&#110=
+0;
+&#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1103;&#1090;&#1100;
+&#1089;&#1086;&#1090;&#1088;&#1091;&#1076;&#1085;&#1080;&#1082;&#1086;&#107=
+4;
+&#1080;&#1079; &#1092;&#1086;&#1088;&#1084;&#1099;
+&#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103;
+&#1076;&#1077;&#1087;&#1072;&#1088;&#1090;&#1072;&#1084;&#1077;&#1085;&#109=
+0;&#1072;</strong></span><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><b><span style=3D'font-size:7.0pt;color:black'><!--[if gte vml 1]><v:sha=
+pe
+ id=3D"_x0000_i1029" type=3D"#_x0000_t75" alt=3D"" style=3D'width:668.25pt;=
+height:267pt'>
+ <v:imagedata src=3D"4_files/image005.jpg" o:href=3D"http://snakeproject.ru=
+/rubric/files/django_my_4/5.jpg"/>
+</v:shape><![endif]--><![if !vml]><img width=3D891 height=3D356
+src=3D"4_files/image005.jpg" v:shapes=3D"_x0000_i1029"><![endif]></span></b=
+><span
+style=3D'font-size:7.5pt;color:black'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;background:laven=
+der;
+mso-ansi-language:EN-US'>C:\django_code\first\firstapp\admin.py</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>from
+django.contrib import admin<br>
+from firstapp.models import dept, workers</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>admin.AdminSite.site_header
+=3D '</span><span style=3D'font-size:7.0pt;color:black'>&#1047;&#1072;&#107=
+5;&#1086;&#1083;&#1086;&#1074;&#1086;&#1082;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1072;&#1076;&#1084;&#1080;&#1085;&#=
+1082;&#1080;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+'</span><span
+lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'>=
+<o:p></o:p></span></p>
+
+<p><span style=3D'font-size:7.0pt;color:black'>#&#1044;&#1086;&#1073;&#1072=
+;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103;
+&#1089;&#1074;&#1103;&#1079;&#1072;&#1085;&#1085;&#1099;&#1093;
+&#1086;&#1073;&#1098;&#1077;&#1082;&#1090;&#1086;&#1074;
+(&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1079;&#1080;&#1084;
+&#1092;&#1091;&#1085;&#1082;&#1094;&#1080;&#1086;&#1085;&#1072;&#1083;
+&#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103; work=
+ers
+&#1074; dept)<br>
+#&#1042;&#1072;&#1088;&#1080;&#1072;&#1085;&#1090;&#1099;
+&#1086;&#1090;&#1086;&#1073;&#1088;&#1072;&#1078;&#1077;&#1085;&#1080;&#110=
+3;
+TabularInline &#1080; StackedInline<br>
+class WorkersInline(admin.TabularInline):<br>
+#class ChoiceInline(admin.StackedInline):<br>
+&nbsp; &nbsp; model =3D workers<br>
+&nbsp;&nbsp; &nbsp;#&#1055;&#1086;&#1082;&#1072;&#1079;&#1072;&#1090;&#1100=
+; 3
+&#1092;&#1086;&#1088;&#1084;&#1099; &#1076;&#1083;&#1103;
+&#1076;&#1086;&#1073;&#1072;&#1074;&#1083;&#1077;&#1085;&#1080;&#1103;
+&#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;&#1086;&#1074; &#10=
+74;
+&#1076;&#1077;&#1087;&#1072;&#1088;&#1090;&#1072;&#1084;&#1077;&#1085;&#109=
+0;.<br>
+&nbsp; &nbsp; </span><span lang=3DEN-US style=3D'font-size:7.0pt;color:blac=
+k;
+mso-ansi-language:EN-US'>extra =3D 3</span><span lang=3DEN-US style=3D'font=
+-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>class
+DeptAdmin(admin.ModelAdmin):<br>
+&nbsp; &nbsp; #</span><span style=3D'font-size:7.0pt;color:black'>&#1092;&#=
+1091;&#1085;&#1082;&#1094;&#1080;&#1086;&#1085;&#1072;&#1083;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1076;&#1086;&#1073;&#1072;&#1074;&#=
+1083;&#1077;&#1085;&#1080;&#1103;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+ workers
+</span><span style=3D'font-size:7.0pt;color:black'>&#1074;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+ dept<br>
+&nbsp; &nbsp; inlines =3D [WorkersInline]</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-languag=
+e:EN-US'>class
+WorkersAdmin(admin.ModelAdmin):<br>
+&nbsp; &nbsp; fieldsets =3D [<br>
+&nbsp; &nbsp; &nbsp; &nbsp; (None, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; {'fields': ['dept']}),<br>
+&nbsp; &nbsp; &nbsp; &nbsp; ('</span><span style=3D'font-size:7.0pt;color:b=
+lack'>&#1048;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1103=
+;</span><span
+style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'> </span><span
+style=3D'font-size:7.0pt;color:black'>&#1086;</span><span style=3D'font-siz=
+e:7.0pt;
+color:black;mso-ansi-language:EN-US'> </span><span style=3D'font-size:7.0pt;
+color:black'>&#1088;&#1072;&#1073;&#1086;&#1090;&#1085;&#1080;&#1082;&#1077=
+;</span><span
+lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-language:EN-US'>=
+',
+{'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),<br>
+&nbsp; &nbsp; ]<br>
+&nbsp; &nbsp; list_display =3D ('name', 'dept', 'birthday')<br>
+&nbsp; &nbsp; search_fields =3D ['name']</span><span lang=3DEN-US style=3D'=
+font-size:
+7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></span></p>
+
+<p><span lang=3DEN-US style=3D'font-size:7.5pt;color:black;mso-ansi-languag=
+e:EN-US'><br>
+</span><span lang=3DEN-US style=3D'font-size:7.0pt;color:black;mso-ansi-lan=
+guage:
+EN-US'>admin.site.register(dept, DeptAdmin)<br>
+admin.site.register(workers, WorkersAdmin) &nbsp;</span><span lang=3DEN-US
+style=3D'font-size:7.5pt;color:black;mso-ansi-language:EN-US'><o:p></o:p></=
+span></p>
+
+<p class=3DMsoNormal><span lang=3DEN-US style=3D'mso-ansi-language:EN-US'><=
+o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4_files/image001.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
 BwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwM
 DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAC/AWcDASIA
 AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
@@ -326,7 +1280,13 @@ aNZwjAeYSZ/3dd18DvhHqnhL9pbxhrzeGvs+mal9taXXtfs9Ok169mlukeKG1vLSVpH0xIoyFhvI
 oAvUVR+30fb6AL1FUft9H2+gC9RVH7fR9voAvUVR+30fb6AL1FUft9H2+gC9RVH7fR9voAvUVR+3
 0fb6AL1FUft9H2+gC9RVH7fR9voAvUVR+30fb6AL1FUft9H2+gC9RVH7fR9voAvUVR+30fb6AL1F
 Uft9FAH/2Q==
-</w:binData><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="" style="width:269.4pt;height:143.2pt"><v:imagedata src="wordml://02000001.jpg" o:href="http://snakeproject.ru/rubric/files/django_my_4/1.jpg"/></v:shape></w:pict></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>выведем их в "человеческом виде"</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\models.py</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>from django.db import models</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class dept ( models.Model ):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    def __str__(self):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        return self.name</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    name       = models.CharField(max_length=15)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class workers ( models.Model ):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    def __str__(self):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        return self.name</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    dept       = models.ForeignKey(dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    name       = models.TextField()</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    birthday   = models.DateTimeField()</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    boss       = models.CharField(max_length=12)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>3 </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>изменение</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>порядка</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>полей</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>и</w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>скрытие</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:b-cs/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:pict><w:binData w:name="wordml://02000002.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4_files/image002.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
 BwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwM
 DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCACCAQIDASIA
 AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
@@ -592,7 +1552,13 @@ f7HHw28QX37IfwrnhOk+TN4P0h4991IrbTZQkZAiODj3NfNZTiKdfNsRVpO8Wo2fySP1TxJyXHZT
 /wASv+4X/wCmqzoor5HjT/cY/wCNflI/pz6KP/JW4j/sGn/6dony3RRRX5if6CBRRRQAUUUUAFFF
 FABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAV/R9+w5/yZT8H/8AsSNF
 /wDSCGiivtuCf49T0X5n8k/S2/5FGA/6+S/9JPUqKKK/Rj+FT//Z
-</w:binData><v:shape id="_x0000_i1026" type="#_x0000_t75" alt="" style="width:193.45pt;height:97.3pt"><v:imagedata src="wordml://02000002.jpg" o:href="http://snakeproject.ru/rubric/files/django_my_4/2.jpg"/></v:shape></w:pict></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\admin.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from firstapp.models import dept, workers</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>#</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.AdminSite.site_header = '</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>'</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class WorkersAdmin(admin.ModelAdmin):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    #fieldsets - </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>название</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>группы</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>полей</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>.</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>#В fields передаем поля из модели.</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>    #Во второй строке класс "collapse", отображает группу полей изначально скрытой.</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>    fieldsets = [</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>        (None,               {'fields': ['dept']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>        ('Информация о работнике', {'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>    ]</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.site.register(dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>#WorkersAdmin </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>передается</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>как</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>настройка</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>для</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>класса</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> workers</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.site.register(workers, WorkersAdmin)  </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>4 Отображение доп.полей в отображении списка работников</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:b-cs/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:pict><w:binData w:name="wordml://02000003.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4_files/image003.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
 BwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwM
 DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAECAyEDASIA
 AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
@@ -1321,7 +2287,13 @@ ABo/4S/Vv+gpqP8A4Ev/AI0UUAH/AAl+rf8AQU1H/wACX/xo/wCEv1b/AKCmo/8AgS/+NFFAB/wl
 +rf9BTUf/Al/8aP+Ev1b/oKaj/4Ev/jRRQAf8Jfq3/QU1H/wJf8Axo/4S/Vv+gpqP/gS/wDjRRQA
 f8Jfq3/QU1H/AMCX/wAaP+Ev1b/oKaj/AOBL/wCNFFAB/wAJfq3/AEFNR/8AAl/8aP8AhL9W/wCg
 pqP/AIEv/jRRQAf8Jfq3/QU1H/wJf/GiiigD/9k=
-</w:binData><v:shape id="_x0000_i1027" type="#_x0000_t75" alt="" style="width:600.9pt;height:193.45pt"><v:imagedata src="wordml://02000003.jpg" o:href="http://snakeproject.ru/rubric/files/django_my_4/3.jpg"/></v:shape></w:pict></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\admin.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from firstapp.models import dept, workers</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>#</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.AdminSite.site_header = '</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>'</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class WorkersAdmin(admin.ModelAdmin):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    fieldsets = [</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        (None,               {'fields': ['dept']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        ('</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Информация</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>о</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>работнике</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>', {'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    ]</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    #</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Отображение</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>доп</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>.</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>полей</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>в</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>отображении</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>списка</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>работников</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    #http://127.0.0.1:8000/admin/firstapp/workers/</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    list_display = ('name', 'dept', 'birthday')</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.site.register(dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.site.register(workers, WorkersAdmin)  </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>5 Добавим поле поиска(поиск по указанному полю):</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:b-cs/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:pict><w:binData w:name="wordml://02000004.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4_files/image004.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
 BwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwM
 DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAA9ATsDASIA
 AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
@@ -1476,7 +2448,13 @@ df8ACK2P/PTUv+/8f/xuj/hFbH/npqX/AH/j/wDjdeadZwv/AAjXiL/oP6L/AOCaX/5Jo/4RrxF/
 4Jpf/kmo5vBes6jNaLea7pclvb3lvdukOlSRu/kzJKFDG4YDJQDOD1rvv+EVsf8AnpqX/f8Aj/8A
 jdH/AAitj/z01L/v/H/8boAi/tv/AGqP7b/2ql/4RWx/56al/wB/4/8A43R/witj/wA9NS/7/wAf
 /wAboA//2Q==
-</w:binData><v:shape id="_x0000_i1028" type="#_x0000_t75" alt="" style="width:236.2pt;height:45.9pt"><v:imagedata src="wordml://02000004.jpg" o:href="http://snakeproject.ru/rubric/files/django_my_4/4.jpg"/></v:shape></w:pict></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\admin.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from firstapp.models import dept, workers</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>#</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.AdminSite.site_header = '</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>'</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class WorkersAdmin(admin.ModelAdmin):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    fieldsets = [</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        (None,               {'fields': ['dept']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        ('</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Информация</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>о</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>работнике</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>', {'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    ]</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    list_display = ('name', 'dept', 'birthday')</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    #</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Добавим</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>поле</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>поиска</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>(</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>будет</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>искать</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>по</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>указанному</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>полю</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    search_fields = ['name']</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.site.register(dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.site.register(workers, WorkersAdmin)  </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>6 Добавления связанных объектов </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:rStyle w:val="Strong"/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>добавим возможность добавлять сотрудников из формы добавления департамента</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/></w:rPr></w:pPr><w:r><w:rPr><w:b/><w:b-cs/><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:pict><w:binData w:name="wordml://02000005.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4_files/image005.jpg
+Content-Transfer-Encoding: base64
+Content-Type: image/jpeg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcG
 BwcICQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcIDAwMDAwM
 DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAz/wAARCAFkA3sDASIA
 AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
@@ -2117,4 +3095,19 @@ FFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAVj6J/yNOtf70P8A6LFF
 FAGxRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUU
 UAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQ
 B//Z
-</w:binData><v:shape id="_x0000_i1029" type="#_x0000_t75" alt="" style="width:668.2pt;height:267.05pt"><v:imagedata src="wordml://02000005.jpg" o:href="http://snakeproject.ru/rubric/files/django_my_4/5.jpg"/></v:shape></w:pict></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:shd w:val="clear" w:color="auto" w:fill="E6E6FA"/><w:lang w:val="EN-US"/></w:rPr><w:t>C:\django_code\first\firstapp\admin.py</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>from django.contrib import admin</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>from firstapp.models import dept, workers</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.AdminSite.site_header = '</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Заголовок</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>админки</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>'</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>#Добавления связанных объектов (отобразим функционал добавления workers в dept)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>#Варианты отображения TabularInline и StackedInline</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>class WorkersInline(admin.TabularInline):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>#class ChoiceInline(admin.StackedInline):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>    model = workers</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>    #Показать 3 формы для добавления работников в департамент.</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:br/><w:t>    </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>extra = 3</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class DeptAdmin(admin.ModelAdmin):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    #</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>функционал</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>добавления</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> workers </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>в</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> dept</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    inlines = [WorkersInline]</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>class WorkersAdmin(admin.ModelAdmin):</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    fieldsets = [</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        (None,               {'fields': ['dept']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>        ('</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>Информация</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>о</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t> </w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/></w:rPr><w:t>работнике</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>', {'fields': ['name', 'birthday', 'boss'], 'classes': ['collapse']}),</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    ]</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    list_display = ('name', 'dept', 'birthday')</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>    search_fields = ['name']</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="NormalWeb"/><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr></w:pPr><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="15"/><w:sz-cs w:val="15"/><w:lang w:val="EN-US"/></w:rPr><w:br/></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:t>admin.site.register(dept, DeptAdmin)</w:t></w:r><w:r><w:rPr><w:color w:val="000000"/><w:sz w:val="14"/><w:sz-cs w:val="14"/><w:lang w:val="EN-US"/></w:rPr><w:br/><w:t>admin.site.register(workers, WorkersAdmin)  </w:t></w:r></w:p><w:p><w:pPr><w:rPr><w:lang w:val="EN-US"/></w:rPr></w:pPr></w:p><w:sectPr><w:pgSz w:w="11906" w:h="16838"/><w:pgMar w:top="1440" w:right="1800" w:bottom="1440" w:left="1800" w:header="720" w:footer="720" w:gutter="0"/><w:cols w:space="720"/><w:docGrid w:line-pitch="360"/></w:sectPr></wx:sect></w:body></w:wordDocument>
+
+------=_NextPart_01D375EE.89CB1390
+Content-Location: file:///C:/EC2C4CD4/4_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../4.htm"/>
+ <o:File HRef=3D"image001.jpg"/>
+ <o:File HRef=3D"image002.jpg"/>
+ <o:File HRef=3D"image003.jpg"/>
+ <o:File HRef=3D"image004.jpg"/>
+ <o:File HRef=3D"image005.jpg"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D375EE.89CB1390--
